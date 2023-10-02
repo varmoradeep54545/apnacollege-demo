@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first repository
-Author-Patel Deep
+Author-Patel Dip
